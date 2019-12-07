@@ -71,9 +71,9 @@ module.exports ={
         //new CleanWebpackPlugin('dist'),
         new CleanWebpackPlugin(),
         new HtmlWebpackPlugin({
-            title:'Hello world',
+            title:'TinyOS Home Page',
             template: 'src/templates/index.hbs',
-            description: 'Some description'
+            description: 'Embedded Operating System'
         })
     ]
 }
