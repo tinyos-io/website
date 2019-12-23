@@ -2,7 +2,7 @@
 website source file
 
 # tinyos.io-website
-A Frontend dashboard
+A Frontend dashboard at https://tinyos.io
 
 Setting up:
 ```
